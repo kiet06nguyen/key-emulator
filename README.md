@@ -168,9 +168,9 @@
             if (key) {
                // document.getElementById('key-display').textContent = key; // LẤY KEY BẰNG ĐUÔI CUỐI URL
                
-               document.getElementById('key-display').textContent = 'FPS-PEEK-2843';
+               document.getElementById('key-display').textContent = 'FPS-PEEK-4673';
             } else {
-                document.getElementById('key-display').textContent = 'FPS-PEEK-2843';
+                document.getElementById('key-display').textContent = 'FPS-PEEK-4673';
             }
             createParticles();
         }
